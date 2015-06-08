@@ -7,6 +7,7 @@
 int _tmain(int argc, _TCHAR* argv[])
 {
 	//add on studio test github
+	//在解决方案下能编辑，changes里面只读
 	return 0;
 }
 
